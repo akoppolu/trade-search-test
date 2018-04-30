@@ -22,7 +22,7 @@ Open a command window and run:
 
     mvn test
 
-This runs Cucumber features using Cucumber's JUnit runner. The `@RunWith(Cucumber.class)` annotation on the `RunCukesTest`
+This runs Cucumber features using Cucumber's JUnit runner. The `@RunWith(Cucumber.class)` annotation on the `RunnerClass`
 class tells JUnit to kick off Cucumber.
 
 ### Run a subset of Features or Scenarios
